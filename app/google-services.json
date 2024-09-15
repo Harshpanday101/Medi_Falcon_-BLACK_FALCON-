@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68111954275",
+    "project_id": "blackfalcon-ea7de",
+    "storage_bucket": "blackfalcon-ea7de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68111954275:android:5ee1f3bc8442801c7b6356",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvWLAoqc0y2jSJ8Lvrcm53yIJEKgeu9Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
